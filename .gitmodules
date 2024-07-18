@@ -1,7 +1,7 @@
-[submodule "pretixscan/libpretixsync-repo"]
-	path = pretixscan/libpretixsync-repo
-	url = https://github.com/pretix/libpretixsync.git
+[submodule "ticketscan/libpretixsync-repo"]
+	path = ticketscan/sync-repo
+	url = https://github.com/LIDALabs/sync-android.git
 	branch = master
-[submodule "pretixscan/libpretixui-repo"]
-	path = pretixscan/libpretixui-repo
-	url = https://github.com/pretix/libpretixui-android.git
+[submodule "ticketscan/libpretixui-repo"]
+	path = ticketscan/ui-repo
+	url = https://github.com/LIDALabs/ui-android.git
